@@ -4,7 +4,7 @@ pipeline{
    
            stage('Build'){
                steps{
-                      git url: 'https://github.com/himajareddy506/SpringBoot.git'
+                      git url: 'https://github.com/himajareddy506/hello-world-war.git'
              }
         }
        
